@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+img{
+    width: 400px;
+    border: crimson solid 20px;
+    padding-bottom: 500px;
+}
+
+
+
+body{
+    background-color: gold
+}
